@@ -10,4 +10,5 @@ int main()
     cout << "hello world!" << endl;
     cout << "hello xmu!" << endl;
     cout << muiltiply(2, 3) << endl;
+    cout << "hello xiaomi!" << endl;
 }
